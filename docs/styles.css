@@ -34,7 +34,7 @@ a {
   align-items: end;
   background:
     linear-gradient(90deg, rgba(7, 20, 22, 0.88), rgba(7, 20, 22, 0.58), rgba(7, 20, 22, 0.08)),
-    url("assets/metoda-propusa.png") center / cover;
+    url("assets/facultate-politehnica.jpg") center / cover;
   color: white;
   padding: 48px 24px;
 }

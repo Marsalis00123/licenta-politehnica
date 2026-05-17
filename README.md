@@ -1,25 +1,25 @@
-# Clasificarea Hemangioamelor Infantile Utilizand Retele Neuronale
+# Clasificarea Hemangioamelor Infantile Utilizând Rețele Neuronale
 
-Repo de prezentare pentru proiectul meu de diploma, sustinut in iulie 2018 la Universitatea Politehnica Bucuresti, Facultatea de Inginerie Medicala.
+Repo de prezentare pentru proiectul meu de diplomă, susținut în iulie 2018 la Universitatea Politehnica București, Facultatea de Inginerie Medicală.
 
-Lucrarea exploreaza clasificarea hemangioamelor infantile cu retele neuronale convolutionale, pornind de la imagini clinice preprocesate si evaluand arhitecturi CNN pentru clasificare binara si multi-clasa.
+Lucrarea explorează clasificarea hemangioamelor infantile cu rețele neuronale convoluționale, pornind de la imagini clinice preprocesate și evaluând arhitecturi CNN pentru clasificare binară și multi-clasă.
 
-![Metoda propusa](assets/metoda-propusa.png)
+![Metoda propusă](assets/metoda-propusa.png)
 
 ## Documente
 
-- [Lucrarea de diploma](docs/licenta.pdf)
+- [Lucrarea de diplomă](docs/licenta.pdf)
 - [Prezentarea](docs/prezentare.pdf)
 - [Pagina GitHub Pages](https://marsalis00123.github.io/licenta-politehnica/)
 
-## Ce contine repo-ul
+## Ce conține repo-ul
 
-- `docs/` - PDF-ul lucrarii, prezentarea si pagina statica pentru GitHub Pages.
-- `assets/` - figuri reprezentative si rezultate vizuale.
-- `src/matlab/` - cod MATLAB selectat pentru antrenare, evaluare si preprocesare.
-- `data/` - nota despre datele originale, care nu sunt incluse public.
+- `docs/` - PDF-ul lucrării, prezentarea și pagina statică pentru GitHub Pages.
+- `assets/` - figuri reprezentative și rezultate vizuale.
+- `src/matlab/` - cod MATLAB selectat pentru antrenare, evaluare și preprocesare.
+- `data/` - notă despre datele originale, care nu sunt incluse public.
 
-## Rezultate si vizualizari
+## Rezultate și vizualizări
 
 ![Rezultate](assets/rezultate.png)
 
@@ -29,21 +29,21 @@ Lucrarea exploreaza clasificarea hemangioamelor infantile cu retele neuronale co
 
 ## De ce nu este inclus dataset-ul
 
-Dataset-ul original contine imagini medicale si fisiere de lucru care nu sunt potrivite pentru publicare directa. Repo-ul pastreaza doar lucrarea, prezentarea, figurile publicabile si codul relevant. Pentru reproducere completa ar fi nevoie de un dataset public sau de permisiuni explicite pentru datele originale.
+Dataset-ul original conține imagini medicale și fișiere de lucru care nu sunt potrivite pentru publicare directă. Repo-ul păstrează doar lucrarea, prezentarea, figurile publicabile și codul relevant. Pentru reproducere completă ar fi nevoie de un dataset public sau de permisiuni explicite pentru datele originale.
 
 ## Citare
 
-Daca folosesti idei, figuri sau cod din acest proiect, citeaza repository-ul sau lucrarea de diploma:
+Dacă folosești idei, figuri sau cod din acest proiect, citează repository-ul sau lucrarea de diplomă:
 
 ```bibtex
 @thesis{ignatescu2018hemangioame,
-  title  = {Clasificarea Hemangioamelor Infantile Utilizand Retele Neuronale de tip Deep Neural Network},
-  author = {Ignatescu, Nicolas},
+  title  = {Clasificarea Hemangioamelor Infantile Utilizând Rețele Neuronale de tip Deep Neural Network},
+  author = {Ignătescu, Nicolas},
   year   = {2018},
-  school = {Universitatea Politehnica Bucuresti}
+  school = {Universitatea Politehnica București}
 }
 ```
 
-## Licenta
+## Licență
 
-Codul sursa din `src/` este publicat sub licenta MIT. Textul lucrarii, prezentarea si imaginile sunt pastrate pentru vizualizare si portofoliu; reutilizarea lor necesita acordul autorului.
+Codul sursă din `src/` este publicat sub licența MIT. Textul lucrării, prezentarea și imaginile sunt păstrate pentru vizualizare și portofoliu; reutilizarea lor necesită acordul autorului.

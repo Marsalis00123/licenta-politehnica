@@ -1,0 +1,33 @@
+.DS_Store
+Thumbs.db
+
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+
+# Local and private data
+/DATA/
+!data/
+!data/README.md
+data/raw/
+data/private/
+Bib/
+Diploma/
+For Print/
+De printat/
+Saved Net/
+*.docx
